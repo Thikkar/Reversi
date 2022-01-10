@@ -10,3 +10,7 @@ Rules:
   3) Capture opponents' pieces by sandwiching a sequence of opposite colored pieces with your piece.
   4) Capturing can occur horizontally, vertically, or diagonally.
   5) Once the entire board is filled, the game is over. The player with the most pieces on the board wins (ties are possible).
+
+## Demo
+
+https://user-images.githubusercontent.com/53710555/148722738-7c452210-148e-44ee-9871-745abcc73e2e.mp4
