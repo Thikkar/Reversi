@@ -1,9 +1,10 @@
 # Reversi
-A game based on Othello, completed as homework for CS211 at Northwestern University
+A game based on the game Othello, completed as homework for CS211 at Northwestern University
 
-Objective: Fill up the board with as much of your color as possible.
+## Objective
+Fill up the board with as much of your color as possible.
 
-Rules: 
+## Rules 
   1) Click to place a piece. Hover piece over a potential move to see all possible gains (indicated in red). If a piece cannot be placed in a certain square,
      there will be no highlighting.
   2) First four moves must start at the center of the board
